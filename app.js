@@ -3,6 +3,8 @@ const notes = require('./notes.js')
 
 console.log(notes)
 
+console.log(validator.isEmail('fidelcaicedocsj@gmail.com'))
+
 
 
 /*const add = require('./utils.js')
